@@ -21,3 +21,11 @@ The compiled version, is a very simple executable, wich always runs on top of ot
 There is also a XML file, that you need to configure, just to point the executables that you want to run.
 
 The XML auto explains itself, but if in doubt, please contact me at vsilvalopes(AT)gmail(DOT)com
+
+Right after you chose wich application to run, the software closes itself.
+
+I recomend using Eventghost for managing the oppening and clossing of the three softwares (Kodi, Steam and RetroFE).
+In my setup, I did a little routine on Eventghost to watch the three softwares, and everytime that one of those softwares process is closed, Eventghost Launches the HTPC launcher.
+
+
+
