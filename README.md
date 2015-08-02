@@ -27,5 +27,7 @@ Right after you chose wich application to run, the software closes itself.
 I recomend using Eventghost for managing the oppening and clossing of the three softwares (Kodi, Steam and RetroFE).
 In my setup, I did a little routine on Eventghost to watch the three softwares, and everytime that one of those softwares process is closed, Eventghost Launches the HTPC launcher.
 
+Check this link to take a look on it : http://i.imgur.com/dpopCRA.png
+
 
 
