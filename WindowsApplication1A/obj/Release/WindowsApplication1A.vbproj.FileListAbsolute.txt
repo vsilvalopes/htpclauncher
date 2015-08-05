@@ -1,0 +1,28 @@
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Release\Mustarda Launcher.exe
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Release\Mustarda Launcher.pdb
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Release\Mustarda Launcher.xml
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Release\ResolveAssemblyReference.cache
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Release\MustaLauncher.Form1.resources
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Release\MustaLauncher.Resources.resources
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Release\WindowsApplication1A.vbproj.GenerateResource.Cache
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Release\Mustarda Launcher.exe
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Release\Mustarda Launcher.xml
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Release\Mustarda Launcher.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Release\Mustarda Launcher.exe
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Release\Mustarda Launcher.xml
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Release\Mustarda Launcher.pdb
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Release\Mini PC Launcher.exe.manifest
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Release\Mini PC Launcher.application
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Release\Mini PC Launcher.exe
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Release\Mini PC Launcher.pdb
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Release\Mini PC Launcher.xml
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Release\ResolveAssemblyReference.cache
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Release\minipclauncher.Config.resources
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Release\minipclauncher.Form1.resources
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Release\minipclauncher.Resources.resources
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Release\WindowsApplication1A.vbproj.GenerateResource.Cache
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Release\Mini PC Launcher.exe.manifest
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Release\Mini PC Launcher.application
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Release\Mini PC Launcher.exe
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Release\Mini PC Launcher.xml
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Release\Mini PC Launcher.pdb

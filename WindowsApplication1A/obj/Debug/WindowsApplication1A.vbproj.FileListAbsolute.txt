@@ -1,0 +1,81 @@
+C:\Users\vinicius.lopes\AppData\Local\Temporary Projects\WindowsApplication1A\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vinicius.lopes\AppData\Local\Temporary Projects\WindowsApplication1A\obj\Debug\WindowsApplication1A.Form1.resources
+C:\Users\vinicius.lopes\AppData\Local\Temporary Projects\WindowsApplication1A\obj\Debug\WindowsApplication1A.Resources.resources
+C:\Users\vinicius.lopes\AppData\Local\Temporary Projects\WindowsApplication1A\obj\Debug\WindowsApplication1A.vbproj.GenerateResource.Cache
+C:\Users\vinicius.lopes\AppData\Local\Temporary Projects\WindowsApplication1A\bin\Debug\WindowsApplication1A.exe
+C:\Users\vinicius.lopes\AppData\Local\Temporary Projects\WindowsApplication1A\bin\Debug\WindowsApplication1A.pdb
+C:\Users\vinicius.lopes\AppData\Local\Temporary Projects\WindowsApplication1A\bin\Debug\WindowsApplication1A.xml
+C:\Users\vinicius.lopes\AppData\Local\Temporary Projects\WindowsApplication1A\obj\Debug\WindowsApplication1A.exe
+C:\Users\vinicius.lopes\AppData\Local\Temporary Projects\WindowsApplication1A\obj\Debug\WindowsApplication1A.xml
+C:\Users\vinicius.lopes\AppData\Local\Temporary Projects\WindowsApplication1A\obj\Debug\WindowsApplication1A.pdb
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\WindowsApplication1A.vbproj.GenerateResource.Cache
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mustarda Launcher.exe
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mustarda Launcher.pdb
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mustarda Launcher.xml
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\MustaLauncher.Form1.resources
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\MustaLauncher.Resources.resources
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mustarda Launcher.exe
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mustarda Launcher.xml
+C:\Users\vinicius.lopes\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mustarda Launcher.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\WindowsApplication1A.vbproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.exe
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.xml
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\minipclauncher.Form1.resources
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\minipclauncher.Resources.resources
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.exe
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.xml
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.pdb
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\minipclauncher.Config.resources
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.exe.manifest
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.application
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.exe.manifest
+C:\Users\Vinicius\Documents\Visual Studio 2008\Projects\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.application
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.exe
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.xml
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.pdb
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\ResolveAssemblyReference.cache
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\minipclauncher.Config.resources
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\minipclauncher.Form1.resources
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\minipclauncher.Resources.resources
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\WindowsApplication1A.vbproj.GenerateResource.Cache
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.exe.manifest
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.application
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.exe
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.pdb
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.xml
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.exe.manifest
+F:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.application
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.exe
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.xml
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.pdb
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.exe.manifest
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.application
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.exe
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.pdb
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\bin\Debug\Mini PC Launcher.xml
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\ResolveAssemblyReference.cache
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\minipclauncher.Form1.resources
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\minipclauncher.Resources.resources
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\WindowsApplication1A.vbproj.GenerateResource.Cache
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.exe.manifest
+V:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.application
+X:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.exe
+X:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.xml
+X:\Mustarda Launcher v2\Codigo Fonte\WindowsApplication1A\WindowsApplication1A\obj\Debug\Mini PC Launcher.pdb
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\obj\Debug\Mini PC Launcher.exe
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\obj\Debug\Mini PC Launcher.xml
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\obj\Debug\Mini PC Launcher.pdb
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\bin\Debug\Mini PC Launcher.exe.manifest
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\bin\Debug\Mini PC Launcher.application
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\bin\Debug\Mini PC Launcher.exe
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\bin\Debug\Mini PC Launcher.pdb
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\bin\Debug\Mini PC Launcher.xml
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\obj\Debug\minipclauncher.Form1.resources
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\obj\Debug\minipclauncher.Resources.resources
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\obj\Debug\WindowsApplication1A.vbproj.GenerateResource.Cache
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\obj\Debug\Mini PC Launcher.exe.manifest
+C:\Users\Vinicius\Desktop\GitHub\WindowsApplication1A\obj\Debug\Mini PC Launcher.application

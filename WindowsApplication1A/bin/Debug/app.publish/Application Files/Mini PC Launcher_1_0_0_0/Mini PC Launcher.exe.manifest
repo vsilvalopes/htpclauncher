@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Mini PC Launcher.exe" version="1.0.0.0" publicKeyToken="b07a2bd400885ca3" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Mini PC Launcher" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Mini PC Launcher.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Mini PC Launcher.exe" size="1197056">
+      <assemblyIdentity name="Mini PC Launcher" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>zVZNHJeIxAOWRApnwMpWJK2VI2w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=PC-WINDOWS\Vinicius" issuerKeyHash="06e2a18d8189b5c0188511d77d00e50ca8685215" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>dB1q6onP7IZIjqvsW9yWev86ANA=</DigestValue></Reference></SignedInfo><SignatureValue>EXiF+Oe9nTQcPAQPw7/AHZL33x5T3Mp373+KT8dXX9ICSuo6iUTgKOjchlCAT5pmd+UIbaLcngqMSXq+XtAltvtmED9t+TiTjO5mWXNli9B4rtQSnZh3dSelGp5zMaZLIiQXubD/dNW7iN/1S0kWYd7a2vjgx6mmHGROj9Ipd/A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pTWmplnXDeMIu26M0pzr8dozfvoegWPpN7ga5inPd0Pc1W4CDyi3iUPy5GliTX2F6rQxSnAN47FXUQNt72HaDbfrAigOuAowwBqnxvJLZBffZZVs4dO7/p1+8mvUmV/c/zhNDOrNLzMuhmPp4JsArSIMkH0eQcOHPmsnZpHE/ek=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d0003aff7a96dc5becab8e4886eccf89ea6a1d74" Description="" Url=""><as:assemblyIdentity name="Mini PC Launcher.exe" version="1.0.0.0" publicKeyToken="b07a2bd400885ca3" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PC-WINDOWS\Vinicius</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>VLlRn3+mEoWEgNHOs+MrOG6605g=</DigestValue></Reference></SignedInfo><SignatureValue>g6GWFtJXVfTriMVyxSs5R+ZL+4pBlHvf8BOvP3JXXBOMeOXGgYhBH00n9lf7atgLvdPM+fYUXEMSg3AChDDH+vDgYAQ/z1gpzohancSYo+PopQHnMqfqz3ZNqg9+eLJwZ/+fQKJiNLkq8MrLki7TG1iQ8cav4OICML8hGt+zJQs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pTWmplnXDeMIu26M0pzr8dozfvoegWPpN7ga5inPd0Pc1W4CDyi3iUPy5GliTX2F6rQxSnAN47FXUQNt72HaDbfrAigOuAowwBqnxvJLZBffZZVs4dO7/p1+8mvUmV/c/zhNDOrNLzMuhmPp4JsArSIMkH0eQcOHPmsnZpHE/ek=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQdS8cCaAzf5FNSgu+8IUZNzANBgkqhkiG9w0BAQUFADAxMS8wLQYDVQQDHiYAUABDAC0AVwBJAE4ARABPAFcAUwBcAFYAaQBuAGkAYwBpAHUAczAeFw0xMDEyMjUxOTA3NThaFw0xMTEyMjYwMTA3NThaMDExLzAtBgNVBAMeJgBQAEMALQBXAEkATgBEAE8AVwBTAFwAVgBpAG4AaQBjAGkAdQBzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQClNaamWdcN4wi7bozSnOvx2jN++h6BY+k3uBrmKc93Q9zVbgIPKLeJQ/LkaWJNfYXqtDFKcA3jsVdRA23vYdoNt+sCKA64CjDAGqfG8ktkF99llWzh07v+nX7ya9SZX9z/OE0M6s0vMy6GY+ngmwCtIgyQfR5Bw4c+aydmkcT96QIDAQABMA0GCSqGSIb3DQEBBQUAA4GBABeU8d+ELBoLx4MWQXL4NZ0zv1r2/3Rf9v4YMbZSxFG6Grz6trxoiPAssTVJ/xE693hid46PUlVKvmCLyB/Em9NZDo5gkjUNlXkDqeJmxKGe8J8i6Zsx3HyheCsKfDOLQvnmpR8tX17/XdKjbiENVPbBd5wNU17m64Op00VuOl5Z</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

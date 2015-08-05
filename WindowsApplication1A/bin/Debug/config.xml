@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Principal>
+
+'Caminho do Software de Media Center
+  <MediaCenter>NOTEPAD.EXE</MediaCenter>
+
+'Caminho do Software de Game Center
+  <GameCenter>CMD.EXE</GameCenter>
+  
+'Caminho do Software Do Steam
+<Steam>"calc.exe"</Steam>
+  
+</Principal>
+

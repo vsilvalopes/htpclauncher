@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D28E1CA6-5240-4E75-9B3F-5C87DD89B232}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>minipclauncher.My.MyApplication</StartupObject>
+    <RootNamespace>minipclauncher</RootNamespace>
+    <AssemblyName>Mini PC Launcher</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ManifestCertificateThumbprint>224E5E2AC724A8F5279A69E39FDA000EF7AD13FB</ManifestCertificateThumbprint>
+    <ManifestKeyFile>WindowsApplication1A_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Vinicius\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Mini PC Launcher.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Mini PC Launcher.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Media - SEM Seleção.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Game - Com seleção.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Game - SEM seleção.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Media - Com Seleção.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajax-loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game_NO_SEL_x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game_SEL_x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\media_NO_sel_x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\media_sel_x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_x_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_x_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SD_NOSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SD_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HD_NOSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HD_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FULLHD_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FULLHD_NOSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WIFI-ON_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WIFI-ON_NOSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WIFI-OFF_NOSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WIFI-OFF_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2P_NOSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2P_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4P_NOSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4P_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo_Base.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_Sel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_NOSel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Launcher_Final_Fundo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Conf_NOSEL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Conf_SEL.png" />
+    <None Include="WindowsApplication1A_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GAMEEX_NO-SEL_enus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GAMEEX_NO-SEL_ptbr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GAMEEX_SEL_enus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GAMEEX_SEL_ptbr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Launcher_Background_enus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XBMC_NO-SEL_enus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XBMC_NO-SEL_ptbr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XBMC_SEL_enus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XBMC_SEL_ptbr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\base.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xbmc_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gameex_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gameex_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xbmc_off.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

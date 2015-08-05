@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Principal>
+
+'Caminho do Software de Media Center
+  <MediaCenter>"C:\Program Files (x86)\Microsoft Office\Office12\WINWORD.EXE"</MediaCenter>
+
+'Caminho do Software de Game Center
+  <GameCenter>"C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE"</GameCenter>
+  
+'Configura Resoluções
+
+<SDTV>CALC.EXE</SDTV>
+<HDTV>NOTEPAD.EXE</HDTV>
+<FULLHD>C:\Program Files (x86)\IrfanView\i_view32.exe</FULLHD>
+
+'Configura Wireless
+
+<WIFION>"C:\Program Files (x86)\WinZip\WINZIP32.EXE"</WIFION>
+<WIFIOFF>"C:\Program Files (x86)\ImgBurn\ImgBurn.exe"</WIFIOFF>
+
+'Configura 2 ou 4 Jogadores
+
+<DJOG>"C:\Program Files (x86)\uTorrent\uTorrent.exe"</DJOG>
+<QJOG>"C:\Program Files (x86)\TVRename\TVRename.exe"</QJOG>
+
+</Principal>
+
